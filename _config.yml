@@ -43,6 +43,13 @@ author:
   name   : "Samuel Duarte Dos Santos"
   avatar : "/assets/images/Image1.jpg"
   bio    : "Ingénieur IA | Machine Learning, Deep Learning, LLMs & IA Générative."
+  minimal_mistakes_skin: "default"
+  sass:
+    sass_dir: _sass
+    style: compressed
+
+  # Ajout du CSS personnalisé
+  include: ["_pages", "_posts", "assets/css"]
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
