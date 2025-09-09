@@ -1,1 +1,8 @@
+.author__avatar img {
+  display: block;
+  margin: 0 auto;       /* centre horizontalement */
+  width: 180px;         /* augmente la taille */
+  height: 180px;
+  border-radius: 50%;   /* cercle */
+}
 
