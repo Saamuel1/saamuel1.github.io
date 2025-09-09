@@ -9,3 +9,6 @@ Développement d’un agent RAG en Python pour conseiller en écoconception num�
 
 **Outils :** FAISS, OpenAI embeddings, Streamlit  
 **Résultat :** prototype fonctionnel testé avec des données réelles  
+
+🔗 [Voir le code sur GitHub](https://github.com/Saamuel1/ecoconseiller-ia)
+
