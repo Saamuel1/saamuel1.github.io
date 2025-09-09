@@ -55,9 +55,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Samuel Duarte Dos Santos"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Ingénieur IA | Machine Learning, Deep Learning, LLMs & IA Générative."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
