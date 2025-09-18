@@ -22,4 +22,4 @@ Faciliter le travail des équipes marketing et e-commerce en générant rapideme
 - Solution facilement extensible pour divers secteurs (e-commerce, logistique, B2B)  
 
 ### 🔗 Liens
-- [Code source GitHub](https://github.com/Saamuel1/generateur-fiches-produits)
+- [Code source GitHub]([https://github.com/Saamuel1/generateur-fiches-produits](https://github.com/Saamuel1/Generateur_fiche_produits))
