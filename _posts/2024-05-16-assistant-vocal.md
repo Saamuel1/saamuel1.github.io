@@ -21,4 +21,4 @@ Faciliter le travail des praticiens en générant des comptes rendus médicaux s
 - Prototype démontrant la faisabilité d’une intégration dans un logiciel médical  
 
 ### 🔗 Liens
-- [Code source GitHub](https://github.com/Saamuel1/assistant-vocal) *(ajoute le lien quand tu crées le dépôt)*  
+- [Code source GitHub](https://github.com/Saamuel1/Assistant-Vocal/tree/main)
