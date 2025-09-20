@@ -1,6 +1,6 @@
 ---
 title: "Solveur multigrille appris avec PyTorch"
-date: 2025-01-20
+date: 2025-08-08
 categories: [Projets, IA, Numérique]
 tags: [Python, PyTorch, Deep Learning, Méthodes numériques, Optimisation]
 ---
