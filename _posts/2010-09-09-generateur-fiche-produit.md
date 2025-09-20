@@ -1,6 +1,6 @@
 ---
 title: "Générateur de fiches produits"
-date: 2025-01-17
+date: 2024-01-15
 categories: [Projets, IA]
 tags: [Python, LLM, Flask, Streamlit, NLP]
 ---
