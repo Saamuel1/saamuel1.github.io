@@ -1,6 +1,6 @@
 ---
 title: "Assistant vocal médical"
-date: 2025-01-16
+date: 2024-05-16
 categories: [Projets, IA]
 tags: [Python, Whisper, LLM, NLP]
 ---
