@@ -27,4 +27,4 @@ Explorer différentes stratégies d’optimisation des *smoothers* (opérateurs 
 - Sauvegarde automatisée des modèles et des métriques pour reproductibilité  
 
 ### 🔗 Liens
-- [Code source GitHub](https://github.com/Saamuel1/stage-multigrille)
+- [Code source GitHub](https://github.com/Saamuel1/ML_Enhanced_Multigrid_Solver)
