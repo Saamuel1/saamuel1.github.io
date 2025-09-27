@@ -40,4 +40,7 @@ Le modèle LSTM est particulièrement performant pour prédire les pannes proche
 Ce projet illustre ma capacité à mener de bout en bout une étude de maintenance prédictive :
 - De la donnée brute capteur jusqu’au modèle opérationnel.
 - En choisissant et comparant plusieurs approches.
-- En mettant l’accent sur la clarté des résultats et leur interprétation.
+- En mettant l’accent sur la clarté des résultats et leur interprétation
+
+### 🔗 Liens
+- [Code ou workflow exporté GitHub](https://github.com/Saamuel1/Projet_Maintenance_predictive)
