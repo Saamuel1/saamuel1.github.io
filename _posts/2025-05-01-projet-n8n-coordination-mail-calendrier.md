@@ -1,6 +1,6 @@
 ---
 title: "Automatisation n8n : coordination mails & calendrier"
-date: 2010-01-07
+date: 2025-05-01
 categories: [Projets, Automatisation]
 tags: [n8n, Workflow, Automatisation, Calendrier, Mail]
 ---
