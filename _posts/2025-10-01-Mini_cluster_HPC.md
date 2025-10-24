@@ -64,7 +64,6 @@ Ce mini-cluster servira de base à mes prochains projets :
 
 ---
 
-📸 *Screenshots disponibles sur le dépôt GitHub*  
 🔗 [Lien GitHub du projet](https://github.com/Saamuel1/MiniCluster_Kubernetes/tree/main)
 ---
 
