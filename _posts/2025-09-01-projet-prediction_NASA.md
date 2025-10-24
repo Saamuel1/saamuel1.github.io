@@ -5,7 +5,6 @@ categories: [Projets, IA, Prédiction, Machine Learning]
 tags: [LSTM, Random Forest, MAE, Deep Learning]
 ---
 
-## Objectif
 Ce projet avait pour but de démontrer ma capacité à réaliser un cycle complet de data science appliqué à un cas concret d'industrie 4.0.  
 L’enjeu n’était pas de battre un benchmark, mais de montrer que je suis capable de :
 - Comprendre et préparer des données capteurs complexes.
