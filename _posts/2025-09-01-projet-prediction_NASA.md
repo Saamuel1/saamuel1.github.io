@@ -1,4 +1,10 @@
-# Maintenance Prédictive avec Données Capteurs (NASA CMAPSS)
+---
+title: "Maintenance Prédictive avec Données Capteurs (NASA CMAPSS)"
+date: 2025-09-01
+categories: [Projets, IA, Prédiction, Machine Learning]
+tags: [LSTM, Random Forest, MAE, Deep Learning]
+---
+# 
 
 ## Objectif
 Ce projet avait pour but de démontrer ma capacité à réaliser un cycle complet de data science appliqué à un cas concret d'industrie 4.0.  
