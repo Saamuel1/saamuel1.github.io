@@ -5,9 +5,7 @@ categories: [Projets, IA, HPC, Kubernetes]
 tags: [Python, Kubernetes, docker, contenerisation]
 ---
 
----
-
-## 🎯 Objectif
+## Objectif
 Reproduire à petite échelle ce que font les grands centres de calcul :  
 → faire tourner plusieurs machines virtuelles comme un **cluster** capable d’exécuter des conteneurs IA.
 
@@ -19,7 +17,7 @@ Ce projet montre ma capacité à :
 
 ---
 
-## 🧱 Architecture du projet
+## Architecture du projet
 - **1 master node** (coordonne les ressources)
 - **2 worker nodes** (exécutent les pods)
 - **Stockage NFS** partagé entre les trois
@@ -29,7 +27,7 @@ L’ensemble tourne sur mon PC local grâce à **Multipass / VirtualBox**, avec 
 
 ---
 
-## 🧩 Étapes principales
+## Étapes principales
 1. Création des 3 machines virtuelles  
 2. Installation manuelle de Kubernetes (kubeadm, kubelet, containerd)  
 3. Initialisation du cluster (`kubeadm init`)  
@@ -40,7 +38,7 @@ L’ensemble tourne sur mon PC local grâce à **Multipass / VirtualBox**, avec 
 
 ---
 
-## 📊 Résultats obtenus
+## Résultats obtenus
 - ✅ 3 nœuds interconnectés (`Ready`)
 - ✅ Stockage commun monté sur chaque machine
 - ✅ Pod Nginx déployé et accessible
@@ -48,7 +46,7 @@ L’ensemble tourne sur mon PC local grâce à **Multipass / VirtualBox**, avec 
 
 ---
 
-## 🧠 Compétences démontrées
+## Compétences démontrées
 - Kubernetes / Containerd / kubeadm
 - Réseau et CNI (Flannel)
 - Systèmes Linux (Ubuntu 22.04)
@@ -58,7 +56,7 @@ L’ensemble tourne sur mon PC local grâce à **Multipass / VirtualBox**, avec 
 
 ---
 
-## 🚀 Perspectives
+## Perspectives
 Ce mini-cluster servira de base à mes prochains projets :
 - **Intégrer Slurm et Podman** pour exécuter des jobs IA
 - **Containeriser des modèles IA** (PyTorch, TensorFlow)
