@@ -1,5 +1,9 @@
-# MiniCluster Kubernetes — IA x HPC Simulation
-👨‍💻 Projet personnel par **Samuel Duarte Dos Santos**
+---
+title: "Reproduction d'un mini cluster HPC"
+date: 2025-10-01
+categories: [Projets, IA, HPC, Kubernetes]
+tags: [Python, Kubernetes, docker, contenerisation]
+---
 
 ---
 
