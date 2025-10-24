@@ -67,4 +67,4 @@ Ce mini-cluster servira de base à mes prochains projets :
 🔗 [Lien GitHub du projet](https://github.com/Saamuel1/MiniCluster_Kubernetes/tree/main)
 ---
 
-💡 **Ce projet prouve que je sais construire un cluster Kubernetes from scratch, comprendre sa logique interne, et l’adapter à des besoins IA–HPC concrets.**
+**Ce projet prouve que je sais construire un cluster Kubernetes from scratch, comprendre sa logique interne, et l’adapter à des besoins IA–HPC concrets.**
